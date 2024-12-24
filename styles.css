@@ -69,7 +69,7 @@ body {
     background: azure;
     margin: 1rem;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 4px 8px rgb(165, 143, 143);
 }
 
 .work-with-us {
@@ -77,11 +77,11 @@ body {
     text-align: center;
     color: rgb(255, 239, 239);
     text-decoration: none;
-    background: salmon;
+    background: beige;
     margin: 1rem;
     border-radius: 8px;
     box-shadow: 10px 14px 8px black;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 15px 4px 8px rgb(0, 0, 0);
 }
 
 
@@ -89,9 +89,9 @@ body {
 .work-with-us a {
     padding: 2rem;
     text-align: center;
-    color: rgb(255, 239, 239);
+    color: rgb(2, 2, 2);
     text-decoration: none;
-    background: salmon;
+    background: beige;
     margin: 1rem;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
